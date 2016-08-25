@@ -1,0 +1,5 @@
+msvc/gtest/
+msvc/gtest-md/
+*.suo
+*.opendb
+*.db
